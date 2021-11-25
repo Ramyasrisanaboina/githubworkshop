@@ -31,7 +31,7 @@
 1. kim namjoon
 2. kim seokjin
 3. min yoongi
-4. jung heosuk
+4. jung hoseok
 
 #unorderedlist
 - park jimin
