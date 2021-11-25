@@ -52,4 +52,22 @@
 * hybe labels
   1. bts
   2. txt
-  3. enhyphen  
+  3. enhyphen 
+  
+  
+#python code
+``` python 
+    a=10
+    b=20
+    c=30
+    print(a,b,c)
+```
+#c code
+``` c
+    #include<stdio.h>
+    main()
+    {
+    char a[10]="jimin";
+    printf("%s",a);
+    }
+```    
